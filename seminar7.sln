@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pascalthreeangle", "pascalt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task47", "task47\task47.csproj", "{9A95DE6E-A84A-4A09-95B3-E71A23000E51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task50", "task50\task50.csproj", "{12C3D22B-F5B8-45B0-8C4F-B100B39CA4EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{9A95DE6E-A84A-4A09-95B3-E71A23000E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A95DE6E-A84A-4A09-95B3-E71A23000E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A95DE6E-A84A-4A09-95B3-E71A23000E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C3D22B-F5B8-45B0-8C4F-B100B39CA4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C3D22B-F5B8-45B0-8C4F-B100B39CA4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C3D22B-F5B8-45B0-8C4F-B100B39CA4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C3D22B-F5B8-45B0-8C4F-B100B39CA4EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
